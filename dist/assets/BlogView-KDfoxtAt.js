@@ -1,0 +1,1 @@
+import{_ as n,o as e,b as o,d as t,k as _}from"./index-Ca4wH3EQ.js";const r={},a={class:"working-block"};function i(c,s){return e(),o("div",a,"working...")}const d=n(r,[["render",i],["__scopeId","data-v-c0a13b72"]]),l={class:"blog-view"},k=t({__name:"BlogView",setup(c){return(s,p)=>(e(),o("div",l,[_(d)]))}});export{k as default};

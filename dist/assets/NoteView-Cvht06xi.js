@@ -1,0 +1,1 @@
+import{_ as o,o as s,b as t,p as c,j as a,e as _}from"./index-Ca4wH3EQ.js";const d={},n=e=>(c("data-v-f0bbdc13"),e=e(),a(),e),r={class:"note-view"},i=n(()=>_("iframe",{src:"https://ruinb0w.github.io/docs"},null,-1)),p=[i];function f(e,h){return s(),t("div",r,p)}const l=o(d,[["render",f],["__scopeId","data-v-f0bbdc13"]]);export{l as default};
